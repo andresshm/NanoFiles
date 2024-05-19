@@ -1,0 +1,318 @@
+Atlantic Cadastral Data
+The Mapping & Boundary Branch performs mathematical offshore boundary location computations and prepares Official Protraction Diagrams (OPDs), and Supplemental Official OCS Block Diagrams (SOBDs) depicting OCS Block information, the Submerged Lands Act Boundary (aka - State Seaward Boundary), Limit of "8(g) Zone", the Continental Shelf Boundary (CSB) which marks the limit of U.S. jurisdiction for offshore mineral development, and corresponding area measurements. The analytical procedures employed and the computer programs utilized to perform various offshore boundary geometric computations are described in OCS Report MMS 99-0006.
+
+Jump to GIS Data Table
+
+OPD Images
+A standard Official Protraction Diagrams (OPD) is 1 degree in latitude by 2 degrees in longitude (at lower latitudes: 0 - 48 degrees). At higher latitudes (48 - 75 degrees) such as Alaska and northern Washington, OPDs are 3 degrees wide. OPD limits usually approximate the standard 1:250,000 scale U.S. Geological Survey topographic map series. The OPDs are numbered using the United Nations International Map of the World Numbering System. OPD names usually coincide with standard topographic sheet names when diagrams include land areas. OPD sheet names relate to land features, or to hydrographic features contained within the limits of the diagram. Shoreline planimetric detail is shown when it falls within the limits of a diagram. Older OPDs were prepared on mylar with manual cartographic methods and then scanned into Adobe .pdf files. Newer OPDs were prepared electronically and converted to Adobe .pdf files. 
+
+NOTE: Atlantic OPDs that show the Submerged Lands Act and Section 8(g) Zone boundaries do not reflect post-2010 shoreline changes.
+
+SOBD Images
+A Supplemental Official OCS Block Diagram (SOBD) is prepared for each block intersected by an offshore boundary (Submerged Lands Act Boundary, Limit of "8(g) Zone", National Marine Sanctuaries, etc.). Note that not all OPDs contain such boundaries; therefore not all OPDs have SOBDs associated with them. The zip files offered here contains only current NAD 83 SOBDS. The historic (outdated) SOBDs can be obtained by contacting the Mapping & Boundary Branch. All future activities will be based on the most current SOBDs. 
+
+NOTE: Atlantic SOBDs do not reflect post-2010 shoreline changes.
+
+Image File Formats
+The most current approved r
+
+Atlantic OPDs PDF File Bundle
+ ATL_OPD.zip
+ Metadata
+
+Atlantic SOBD PDF File Bundle
+ ATL_SOBD.zip
+ Metadata  
+
+Puerto Rico &
+Virgin Islands:
+PRVI OPD Index 2017.pdf
+(Updated 12/4/2017)
+
+Puerto Rico & Virgin Islands
+OPDs PDF File Bundle
+ PRVI_OPD.zip
+Metadata
+
+Puerto Rico &
+Virgin Islands
+SOBD PDF File Bundle
+ PRVI_SOBD.zip
+Metadata  
+
+ND19-02
+Venezuelan Basin
+
+Not Yet Published
+
+Not Yet Published
+
+ND19-03
+Columbian Basin
+
+Not Yet Published
+
+Not Yet Published
+
+ND19-06
+Venezuelan Plain
+
+Not Yet Published
+
+Not Yet Published
+
+ND20-01
+Aves Apron
+
+Not Yet Published
+
+Not Yet Published
+
+NE19-02
+Unnamed
+
+Not Yet Published
+
+Not Yet Published
+
+NE19-03
+Mona Ridge
+
+Not Yet Published
+
+Not Yet Published
+
+NE19-05
+Santa Domingo
+
+Not Yet Published
+
+Not Yet Published
+
+NE19-06
+San Juan
+
+Not Yet Published
+
+Not Yet Published
+
+NE19-08
+Unnamed
+
+Not Yet Published
+
+Not Yet Published
+
+NE19-09
+Desecheo Basin
+
+Not Yet Published
+
+Not Yet Published
+
+NE19-11
+Unnamed
+
+Not Yet Published
+
+Not Yet Published
+
+NE19-12
+Unnamed
+
+Not Yet Published
+
+Not Yet Published
+
+NE20-01
+Anegada Canyon
+
+Not Yet Published
+
+Not Yet Published
+
+NE20-04
+St. Thomas
+
+
+Provisional - Unpublished
+
+NE20-04.zip
+Provisional - Unpublished
+
+NE20-05
+Anguila
+
+Not Yet Published
+
+Not Yet Published
+
+NE20-07
+St. Croix
+
+NE20-07-05-MAR-2003.pdf
+Provisional - Unpublished
+
+NE20-07.zip
+Provisional - Unpublished
+
+NE20-08
+St. Kitts-Nevis
+
+Not Yet Published
+
+Not Yet Published
+
+NE20-10
+Unnamed
+
+Not Yet Published
+
+Not Yet Published
+
+NE20-11
+Basse-Terre Valley
+
+Not Yet Published
+
+Not Yet Published
+
+NF17-01
+Tortugas Valley
+
+ NF17-01-13-MAR-1997.pdf
+Approved 13-MAR-1997
+
+ NF17-01.zip
+
+NF17-02
+Rompidas Ledge
+
+ NF17-02-13-MAR-1997.pdf
+Approved 13-MAR-1997
+
+ NF17-02.zip
+
+NF19-09
+Unnamed
+
+Not Yet Published
+
+Not Yet Published
+
+NF19-11
+Unnamed
+
+Not Yet Published
+
+Not Yet Published
+
+NF19-12
+Dos Ninos Knoll
+
+Not Yet Published
+
+Not Yet Published
+
+NF20-07
+Puerto Rico Ridge
+
+Not Yet Published
+
+Not Yet Published
+
+NF20-10
+Puerto Rico Trench
+
+Not Yet Published
+
+Not Yet Published
+
+NG17-02
+Ft. Pierce
+
+ NG17-02-01-APR-2008.pdf 
+Approved 01-APR-2008
+
+ NG17-02.zip 
+
+NG17-03
+Walker Cay
+
+ NG17-03-01-APR-2008.pdf
+Approved 01-APR-2008
+
+ NG17-03.zip
+(updated 09/02/10)
+
+NG17-05
+West Palm Beach
+
+ NG17-05-01-APR-2008.pdf
+Approved 01-APR-2008
+
+ NG17-05.zip
+(updated 09/02/10)
+
+NG17-06
+Bahamas
+
+ NG17-06-01-APR-2008.pdf
+Approved 01-APR-2008
+
+ NG17-06.zip
+(updated 09/02/10)
+
+NG17-08
+Miami
+
+ NG17-08-01-APR-2008.pdf
+Approved 01-APR-2008
+
+ NG17-08.zip
+(updated 09/02/10)
+
+NG17-09
+Bimini
+
+ NG17-09-01-APR-2008.pdf
+Approved 01-APR-2008
+
+ NG17-09.zip
+(updated 09/02/10)
+
+NG17-10
+Dry Tortugas
+
+ NG17-10-01-APR-2008.pdf
+Approved 01-APR-2008
+
+ NG17-10.zip
+(updated 09/02/10)
+
+NG17-11
+Key West
+
+ NG17-11-01-APR-2008.pdf
+Approved 01-APR-2008
+
+ NG17-11.zip
+(updated 09/02/10)
+
+NG17-12
+Andros
+
+ NG17-12-13-MAR-1997.pdf
+Approved 13-MAR-1997
+
+ NG17-12.zip
+
+NH17-02
+Brunswick
+
+ NH17-02-01-APR-2008.pdf
+Approved 01-APR-2008
+
+ NH17-02.zip
+(updated 09/02/10)
+
